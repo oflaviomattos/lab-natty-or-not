@@ -1,51 +1,26 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Ebook "Arte IA: A Estética Extrema" 😉
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Explorando as incríveis capacidades de GPT-3 e DALL-E, este ebook é uma jornada pela produção de conteúdo estético gerado por IA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- OpenAI's GPT-3 para criação de textos
+- DALL-E para geração de imagens
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Geração de Textos com GPT-3:** Utilizei GPT-3 para criar descrições criativas e inspiradoras para acompanhar as imagens geradas.
+2. **Geração de Imagens com DALL-E:** Explorei a capacidade de DALL-E para criar imagens esteticamente atraentes e únicas.
+3. **Composição do Ebook:** Combinei os textos gerados por GPT-3 com as imagens de DALL-E para criar um ebook coeso e esteticamente impactante.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- Seção 1: Textos criativos e inspiradores gerados por GPT-3.
+- Seção 2: Galeria de imagens esteticamente atraentes criadas por DALL-E.
+- Ebook final que destaca a fusão única de texto e imagem gerada por IA.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💭 Reflexão
+Explorar o potencial de GPT-3 e DALL-E foi uma experiência fascinante. O ebook destaca como essas tecnologias podem ser poderosas na criação de conteúdo estético sem a necessidade de treinamento de machine learning local ou codificação extensiva.
 
-### Exemplos e Insigths
+## 📚 E-BOOK
+Confira [aqui](https://flaviomattos.com/ebook/ArteIA_A_EsteticaExtrema.pdf) o produto final do projeto. Explore as páginas do ebook para vivenciar a fusão única de arte e inteligência artificial.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+#LabDIONattyOrNot #ArteIA #GenerativeArt
